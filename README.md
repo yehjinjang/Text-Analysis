@@ -1,4 +1,4 @@
-# 📝 Text Analysis & Text Mining Projects
+# 📝 Text Analysis Projects
 
 ## Text Analysis of Domestic and International Reactions to the Movie "Parasite"
 
@@ -8,16 +8,16 @@
 ---
 
 ### 🗓️ Period
-2023년 7월 ~ 2023년 8월 (1개월)
+- 2023년 7월 ~ 2023년 8월 (1개월)
 
 ---
 
 ### 👥 Team
-개인 프로젝트 
+- 개인 프로젝트 
 ---
 
 ### 🛠️ Tech Stack
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![VADER](https://img.shields.io/badge/VADER-NLP-green?style=for-the-badge) | ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6F00?style=for-the-badge) | ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-blue?style=for-the-badge) | ![SVM](https://img.shields.io/badge/SVM-purple?style=for-the-badge) | ![LDA](https://img.shields.io/badge/LDA-orange?style=for-the-badge) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![VADER](https://img.shields.io/badge/VADER-NLP-green?style=for-the-badge) ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-FF6F00?style=for-the-badge) ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-blue?style=for-the-badge) ![SVM](https://img.shields.io/badge/SVM-purple?style=for-the-badge) ![LDA](https://img.shields.io/badge/LDA-orange?style=for-the-badge) 
 
 ---
 
@@ -65,7 +65,7 @@
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![Konlpy](https://img.shields.io/badge/Konlpy-00BFFF?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge) ![TF-IDF](https://img.shields.io/badge/TF%2DIDF-yellowgreen?style=for-the-badge)
+![Konlpy](https://img.shields.io/badge/Konlpy-00BFFF?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge) ![TF-IDF](https://img.shields.io/badge/TF-IDF-yellowgreen?style=for-the-badge)
 
 ---
 
