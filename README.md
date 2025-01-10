@@ -1,6 +1,6 @@
 # 📝 Text Analysis Projects
 
-## Text Analysis of Domestic and International Reactions to the Movie "Parasite"
+###  영화 "Parasite(기생충)" 국내외 반응 분석 
 
 ### 📖 Overview
 이 프로젝트는 텍스트 데이터 분석 수업의 일환으로, 영화 ‘기생충’의 황금종려상 수상 이후, YouTube 댓글을 분석하여 국내외 대중의 반응과 감정을 비교하였습니다.
